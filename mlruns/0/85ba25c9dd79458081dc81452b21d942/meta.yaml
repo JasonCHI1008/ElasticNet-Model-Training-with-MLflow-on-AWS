@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/user/OneDrive/Desktop/AI_learning/MLOPS/AWSproject/mlruns/0/85ba25c9dd79458081dc81452b21d942/artifacts
+end_time: 1754448759227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85ba25c9dd79458081dc81452b21d942
+run_name: dashing-cod-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754448757046
+status: 3
+tags: []
+user_id: user

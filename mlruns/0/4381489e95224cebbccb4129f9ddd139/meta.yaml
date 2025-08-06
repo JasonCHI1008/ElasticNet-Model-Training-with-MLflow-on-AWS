@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/user/OneDrive/Desktop/AI_learning/MLOPS/AWSproject/mlruns/0/4381489e95224cebbccb4129f9ddd139/artifacts
+end_time: 1754448863674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4381489e95224cebbccb4129f9ddd139
+run_name: exultant-snake-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754448861603
+status: 3
+tags: []
+user_id: user

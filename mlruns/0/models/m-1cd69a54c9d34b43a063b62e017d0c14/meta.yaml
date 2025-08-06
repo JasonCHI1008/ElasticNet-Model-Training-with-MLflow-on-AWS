@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/user/OneDrive/Desktop/AI_learning/MLOPS/AWSproject/mlruns/0/models/m-1cd69a54c9d34b43a063b62e017d0c14/artifacts
+creation_timestamp: 1754448861688
+experiment_id: '0'
+last_updated_timestamp: 1754448863624
+model_id: m-1cd69a54c9d34b43a063b62e017d0c14
+model_type: null
+name: model
+source_run_id: 4381489e95224cebbccb4129f9ddd139
+status: 2
+status_message: null

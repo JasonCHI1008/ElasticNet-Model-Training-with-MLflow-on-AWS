@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/user/OneDrive/Desktop/AI_learning/MLOPS/AWSproject/mlruns/0/681820fe65d34483950cb2da30fa95e0/artifacts
+end_time: 1754448742023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 681820fe65d34483950cb2da30fa95e0
+run_name: bold-pug-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754448739773
+status: 3
+tags: []
+user_id: user
