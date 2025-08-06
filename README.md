@@ -1,6 +1,7 @@
 ### MLFLOW Project ON AWS
 
 ワインのデータ：https://raw.githubusercontent.com/mlflow/mlflow/master/tests/datasets/winequality-red.csv
+コードは app.ipynb 　で実行されている
 
 ##
 
